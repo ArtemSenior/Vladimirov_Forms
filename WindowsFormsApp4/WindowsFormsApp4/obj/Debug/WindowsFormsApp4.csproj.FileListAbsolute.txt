@@ -1,0 +1,11 @@
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\ПРАКТИКА\Реализация разветвленных и циклических алгоритмов\Forms2\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
